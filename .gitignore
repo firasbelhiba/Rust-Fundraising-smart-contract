@@ -8,6 +8,8 @@ node_modules
 # build
 /out
 /dist
+/frontend/dist
+
 
 # keys
 /templates/react/neardev
@@ -29,3 +31,6 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+target
+Cargo.lock
+.parcel-cache
